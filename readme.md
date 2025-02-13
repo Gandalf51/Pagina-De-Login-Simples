@@ -41,4 +41,4 @@ Fiquei um tempo sem programar e decidi fazer algo básico para voltar ao ritmo. 
 
 ---
 
-Feito com 💻 por Guilherme
+Feito com ♥️ por Guilherme
