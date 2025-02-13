@@ -4,7 +4,7 @@ const Button = (document.getElementById("LOGIN-BUTTON") as HTMLButtonElement);
 const ErrorMessage = (document.getElementById("Error-Message") as HTMLParagraphElement)
 
 type VerifyEmail = (Email: string) => boolean;
-type VerifyPassword = (Email: string, PassWord: String) => boolean;
+type VerifyPassword = (Email: string, PassWord: string) => boolean;
 type objectDs = {Email: string, Password: string}
 
 const ObjectDados: objectDs = {
