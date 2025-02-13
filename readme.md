@@ -19,6 +19,22 @@ Fiquei um tempo sem programar e decidi fazer algo básico para voltar ao ritmo. 
 - **TypeScript**: Para adicionar um pouco de tipagem forte e treinar o uso do TypeScript.
 - **JavaScript** (gerado a partir do TypeScript): Para validar o login e exibir mensagens de erro.
 
+## Como rodar
+
+1. **Instale as dependências**: Se você ainda não fez isso, rode o comando:
+
+    ```bash
+    npm install
+    ```
+
+2. **Compile o código**: Para compilar o código TypeScript e gerar os arquivos JavaScript, basta rodar o comando:
+
+    ```bash
+    npx webpack
+    ```
+
+    Depois disso, o projeto estará pronto para ser usado.
+
 ## Observações
 
 É um projeto bem simples, com um estilo básico e sem grandes funcionalidades. O foco aqui foi treinar a lógica de programação e praticar com **TypeScript**.
